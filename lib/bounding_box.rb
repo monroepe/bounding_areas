@@ -1,5 +1,3 @@
-require 'pry'
-
 class BoundingBox
 
   attr_reader :left, :bottom, :width, :height
